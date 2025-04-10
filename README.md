@@ -14,10 +14,11 @@ Automate Processes: Simplify and automate your data flow from form submission to
 - Best practices for secure and efficient integration.
 
 # Prerequisites
-Basic understanding of PHP programming.
-Familiarity with API concepts.
-Access to a Zoho CRM account.
-Getting Started
+- Basic understanding of PHP programming.
+- Familiarity with API concepts.
+- Access to a Zoho CRM account (Create for Free - up to 45 days).
+
+# Getting Started
 Clone this repository: git clone https://github.com/yourusername/zoho-crm-php-integration
 Follow the course modules to understand each part of the integration.
 Customize the code snippets to fit your website forms.
